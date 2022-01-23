@@ -49,3 +49,19 @@ CREATE TABLE IF NOT EXISTS barang (
     kategoriBarang varchar(255) NOT NULL
 );
 ```
+# Cara menggunakan
+Langkah-langkah untuk menjalankan program
+1. Unduh dan ekstrak file program
+2. Buka NetBeans lalu klik "Open Project"
+3. Cari file program yang telah di ekstrak lalu pilih
+4. Buka XAMPP dan jalankan MySQL, jika belum ada database dapat dilihat pada bagian [Spesifikasi Database](#spesifikasi-database)
+5. Jalankan program pada NetBeans dengan menekan tombol "run"
+
+<br>
+<br>
+
+**Tambahan**
+
+* Program dibuat dengan Java versi 1.8.0_261
+* NetBeans yang digunakan pada tugas ini adalah versi 8.2
+* XAMPP yang digunakan pada tugas ini adalah versi 3.2.4
